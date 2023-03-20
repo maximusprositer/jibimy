@@ -1,0 +1,8 @@
+print("доступно:")
+print("probiv_all1.py - пробив(унивирсальный)")
+print("probiv_ip.py - пробив по ip")
+print("proxy_cheker.py - прокси чекер")
+print("proxy_spider1.py - прокси паук")
+print("spamer_email.py - спамер на почту")
+print("ddos_site.py - ddos сайтов и сереров")
+print("ddos_killcloudflare")
